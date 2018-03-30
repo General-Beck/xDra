@@ -31,4 +31,3 @@ script:
   - make
   - cd src
   - make -f makefile.unix
-  - compile.sh
