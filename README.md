@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/General-Beck/xDra.svg?branch=master)](https://travis-ci.org/General-Beck/xDra)
 WHAT IS HYDRA™
 New promising crypto platform combining speed, 
 security and new payment options.
